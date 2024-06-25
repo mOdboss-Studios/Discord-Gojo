@@ -9,7 +9,7 @@
  * @BDEditor mOdboss Studios
 */
 
-@import url('https://github.com/mOdboss-Studios/Discord-Gojo/blob/main/Hollow%20Purple');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #673AB7;

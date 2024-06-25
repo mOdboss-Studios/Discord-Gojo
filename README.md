@@ -1,4 +1,4 @@
 # Discord-Gojo
-Cutsom Discord Backround of Gojo's Hollow Purple
+Cutsom Discord Theme of Gojo's Hollow Purple
 
 
